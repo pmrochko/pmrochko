@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="left">Hi 👋, I'm Pavlo</h2>
 
-<!--
-**pmrochko/pmrochko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">A Java Developer from Ukraine (Open to work)</h3>
 
-Here are some ideas to get you started:
+---------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a highly self-motivated Java developer who pays attention to
+details. I'm actively seeking opportunities to gain practical experience,
+improve my skills and work with a team. As a developer, I have a strong
+desire for personal and career growth. Furthermore, I'm enthusiastic
+about the possibility to learn from seasoned professionals and get
+valuable commercial experience.
+
+* 🤝  I'm ready to consider all offers
+
+<h3 align="left">Tech Stack</h3>
+
+- Backend: Java, Spring Framework, Hibernate, RESTful, Microservices
+- Frontend: HTML5, CSS3, JavaScript
+- Database: MySql, PostgreSQL, MongoDB
+- Build tools: Maven
+- Servers: Tomcat
+- Version Control: Git
+- IDE: Intellij IDEA
+
+<h3 align="left">Soft Skills</h3>
+
+- Problem solving, Team work
