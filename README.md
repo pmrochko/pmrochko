@@ -22,6 +22,7 @@ valuable commercial experience.
 - Servers: Tomcat
 - Version Control: Git
 - IDE: Intellij IDEA
+- Other: Docker, Postman, Swagger
 
 <h3 align="left">Soft Skills</h3>
 
