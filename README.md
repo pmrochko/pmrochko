@@ -17,7 +17,7 @@ valuable commercial experience.
 
 - Backend: Java, Spring Framework, Hibernate, RESTful, Microservices
 - Frontend: HTML5, CSS3, JavaScript, JSP
-- Database: MySql, PostgreSQL, MongoDB
+- Database: MySQL, PostgreSQL, MongoDB
 - Build tools: Maven
 - Servers: Tomcat
 - Version Control: Git
