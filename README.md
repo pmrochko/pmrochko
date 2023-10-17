@@ -17,7 +17,7 @@ valuable commercial experience.
 
 - Backend: Java, Spring Framework, Hibernate, RESTful, Microservices
 - Frontend: HTML5, CSS3, JavaScript, JSP
-- Database: MySQL, PostgreSQL, MongoDB
+- Database: MySQL, PostgreSQL, MongoDB, MariaDB
 - Build tools: Maven
 - Servers: Tomcat
 - Version Control: Git
@@ -26,4 +26,4 @@ valuable commercial experience.
 
 <h3 align="left">Soft Skills</h3>
 
-- Problem solving, Team work
+- Problem solving, Team work (Scrum)
