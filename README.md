@@ -16,7 +16,7 @@ valuable commercial experience.
 <h3 align="left">Tech Stack</h3>
 
 - Backend: Java, Spring Framework, Hibernate, RESTful, Microservices
-- Frontend: HTML5, CSS3, JavaScript, JSP
+- Frontend: HTML5, CSS3, JavaScript, JSP, Thymeleaf
 - Database: MySQL, PostgreSQL, MongoDB, MariaDB
 - Build tools: Maven
 - Servers: Tomcat
