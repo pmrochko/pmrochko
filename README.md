@@ -5,8 +5,7 @@
 ---------------------
 
 I am a highly self-motivated Java developer who pays attention to
-details. I'm actively seeking opportunities to gain practical experience,
-improve my skills and work with a team. As a developer, I have a strong
+details. As a developer, I have a strong
 desire for personal and career growth. Furthermore, I'm enthusiastic
 about the possibility to learn from seasoned professionals and get
 valuable commercial experience.
