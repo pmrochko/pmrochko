@@ -15,12 +15,13 @@ valuable commercial experience.
 <h3 align="left">Tech Stack</h3>
 
 - Backend: Java, Spring Framework, Hibernate, RESTful, Microservices
-- Frontend: HTML5, CSS3, JavaScript, JSP, Thymeleaf
+- Frontend: HTML5, CSS3, JS, TS, JSP, Thymeleaf, React
 - Database: MySQL, PostgreSQL, MongoDB, MariaDB
 - Build tools: Maven
 - Servers: Tomcat
 - Version Control: Git
 - IDE: Intellij IDEA
+- APIs: Telegram Bot, OpenAI, Amazon Ads, Amazon SP
 - Other: Docker, Postman, Swagger, Flyway
 
 <h3 align="left">Soft Skills</h3>
