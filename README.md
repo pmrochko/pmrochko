@@ -21,6 +21,7 @@ valuable commercial experience.
 - Servers: Tomcat
 - Version Control: Git
 - IDE: Intellij IDEA
+- Clouds: GCP, AWS
 - APIs: Telegram Bot, OpenAI, Amazon Ads, Amazon SP
 - Other: Docker, Postman, Swagger, Flyway
 
